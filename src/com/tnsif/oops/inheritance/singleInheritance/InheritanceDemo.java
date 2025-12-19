@@ -1,4 +1,4 @@
-package com.tnsif.oops.inheritance;
+package com.tnsif.oops.inheritance.singleInheritance;
 
 class A { //superclass
 	void display() {
