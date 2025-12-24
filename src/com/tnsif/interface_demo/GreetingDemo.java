@@ -1,9 +1,8 @@
 package com.tnsif.interface_demo;
 
-
 @FunctionalInterface
 public interface GreetingDemo {
-	void greeet();
-	
+	 void greet(); //used for declaration
+	 //void greet1();
 
 }
